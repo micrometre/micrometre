@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micrometre
 - 👀 I’m interested in Javascript Nextjs Kubernetes
 - 🌱 I’m currently learning  Kubernetes and React
-- 💞️ I’m collaborate on Migrating applications to kubernetes
+- 💞️ I’m working on Migrating applications to kubernetes
 - 📫 How to reach me henokwehibe@gmail.com
 
 <!---
