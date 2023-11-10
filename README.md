@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @micrometre
+- 👋 Hi, I’m Henok Wehibe @micrometre
 - 👀 I’m interested in Javascript Nextjs Kubernetes
 - 🌱 I’m currently learning  Kubernetes and React
 - 💞️ I’m working on Migrating applications to kubernetes
