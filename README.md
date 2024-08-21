@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henok Wehibe @micrometre
 - 👀 I’m interested in Javascript, python React and Kubernetes
 - 🌱 I’m currently learning python and React
-- 💞️ [I’m working on IAAS (infrastructure as a service) for Automatic Number Plate Recognition (ANPR) as a service.] (https://microanpr.com/)
+- 💞️ [I’m working on IAAS (infrastructure as a service) for Automatic Number Plate Recognition (ANPR) as a service.] https://microanpr.com
 - 📫 How to reach me henokwehibe@gmail.com
 
 <!---
