@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henok Wehibe @micrometre
 - 👀 I’m interested in Python, JavaScript and Ansible.
 - 🌱 I’m currently learning Python and React
-- 💞️ I’m working on IaaS (infrastructure as a service) for Automatic Number Plate Recognition (ANPR) as a service. https://microanpr.com
+- 💞️ I’m working on an Automatic Number Plate Recognition (ANPR) as a service project. https://microanpr.com
 - 📫 How to reach me henokwehibe@gmail.com
 
 <!---
