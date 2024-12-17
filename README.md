@@ -1,6 +1,6 @@
 Hi, I'm Henok Wehibe (@micrometre)
 
-DevOps and Full-Stack Developer with a focus on Python, JavaScript, and Ansible. Python and React to build for web applications.
+DevOps and Full-Stack Developer with a focus on Python, JavaScript, and Ansible. 
 
 latest project: an Automatic Number Plate Recognition (ANPR) system as a service.
 
